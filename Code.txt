@@ -1,1 +1,2 @@
 //commiting the new feature in Feature A branch
+//commiting the new2 feature in Feature A branch
